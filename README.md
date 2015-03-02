@@ -1,6 +1,6 @@
 # WPSuperControl
 
-Just add the shortcode [wpsupercontrol] to a page and add a calendar.
+Just add the shortcode [wpsupercontrol] to a page to add a calendar, availability status or testimonials.
 
 ##Parameters
 ```
