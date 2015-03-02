@@ -8,7 +8,7 @@ Just add the shortcode [wpsupercontrol] to a page and add a calendar.
 		'siteID' =  ,
 		'cottageID' = ,
 		'ownerID' = ,
-    'mode' =>
+    'mode' =
 ]
 ```
 
