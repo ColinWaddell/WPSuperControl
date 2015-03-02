@@ -5,10 +5,10 @@ Just add the shortcode [wpsupercontrol] to a page and add a calendar.
 ##Parameters
 ```
 [wpsupercontrol
-		'siteID' =  ,
-		'cottageID' = ,
-		'ownerID' = ,
-    'mode' =
+  'siteID' =  ,
+  'cottageID' = ,
+  'ownerID' = ,
+  'mode' =
 ]
 ```
 
