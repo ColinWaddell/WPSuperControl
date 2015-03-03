@@ -12,10 +12,10 @@ Just add the shortcode [wpsupercontrol] to a page to add a calendar, availabilit
 ]
 ```
 
-| Parameter |                           |
-| --------- | ------------------------- |
-| siteID    | Supplied by Supercontrol  |
-| cottageID | Supplied by Supercontrol  |
-| ownerID   | Supplied by Supercontrol  |
+| Parameter |                             |
+| --------- | --------------------------- |
+| siteID    | *Supplied by Supercontrol*  |
+| cottageID | *Supplied by Supercontrol*  |
+| ownerID   | *Supplied by Supercontrol*  |
 | mode      | • calendar<br>• availability<br>• testimonials
 
