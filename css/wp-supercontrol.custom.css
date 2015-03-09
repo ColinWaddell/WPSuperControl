@@ -1,0 +1,20 @@
+#supercontrol-availability{
+  width: 100%;
+  font-size: 12px;
+}
+
+#supercontrol_avail_ajax_calendar_box{
+  margin-right: 20px;
+}
+
+
+#calendar-month table tr th.days-week {
+  font-family: Cardo, serif;
+  font-weight: 600;
+  padding-top: 5px;
+}
+
+#supercontrol_avail_ajax_pax table tr td, #supercontrol_avail_ajax_price table tr td {
+  font-size: 12px;
+  width: 10px;
+}

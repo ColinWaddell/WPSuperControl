@@ -13,9 +13,11 @@ function wpSuperControl( $atts ) {
 		'siteID' =>  51,
 		'cottageID' =>  195562,
 		'ownerID' => 25,
-                'mode' => 'testimonials'
+                'mode' => 'calendar'
 	), $atts);
 
+
+  wp_enqueue_style( 'wpsupercontrol-custom' );
 
   switch($atts['mode']){
   
@@ -43,6 +45,7 @@ function wpSuperControl( $atts ) {
   return "";
 }
 
+wp_register_style( 'wpsupercontrol-custom', plugins_url('/WPSuperControl/css/wp-supercontrol.custom.css') );
 add_shortcode('wpsupercontrol', 'wpSuperControl');
 
 ?>
